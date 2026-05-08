@@ -1,16 +1,13 @@
-## Hi there 👋
+## Привет, я Вячеслав! 👋
 
-<!--
-**vvk2020/vvk2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я - frontend-разработчик, увлекаюсь программированием и разработкой умных устройств на базе микроконтроллеров.
 
-Here are some ideas to get you started:
+💻 Tech Stack main:
+React Redux MobX Angular NGXS JavaScript TypeScript HTML5 CSS3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 More tech skills:
+JWT NPM GitHub React Router SASS Styled Components Angular Material React MUI Webpack Figma GIT ESLint Postman
+
+🌐 Mу contacts:
+Gmail: dev78vk@gmail.com
+Telegram: [https://t.me/vvsmith](https://t.me/vvsmith
