@@ -56,5 +56,9 @@
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=vvk2020&label=Profile%20Views&color=12&icon=5&pretty=true" alt="счетчик просмотров" />
+  <img src="https://gh-stats.com/api/views/vvk2020?label=Profile%20Views&color=blue" alt="счетчик просмотров" />
+</p>
+
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=vvk2020&label=Profile%20Views&countColor=%23263759" alt="счетчик просмотров" />
 </p>
