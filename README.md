@@ -37,12 +37,7 @@
 
 ### 📊 GitHub статистика
 
-### Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vvk2020&theme=dark)](https://git.io/streak-stats)
-
-### Trophies
 ![Trophy](https://github-profile-trophy.vercel.app/?username=vvk2020&theme=dark)
-
 
 ---
 
