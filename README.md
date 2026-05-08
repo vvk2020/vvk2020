@@ -52,13 +52,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vvk2020&color=blue&style=flat-square" alt="счетчик просмотров" />
-</p>
-
-<p align="center">
-  <img src="https://gh-stats.com/api/views/vvk2020?label=Profile%20Views&color=blue" alt="счетчик просмотров" />
-</p>
-
-<p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=vvk2020&label=Profile%20Views&countColor=%23263759" alt="счетчик просмотров" />
 </p>
