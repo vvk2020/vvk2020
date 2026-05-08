@@ -54,3 +54,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vvk2020&color=blue&style=flat-square" alt="счетчик просмотров" />
 </p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=vvk2020&label=Profile%20Views&color=12&icon=5&pretty=true" alt="счетчик просмотров" />
+</p>
