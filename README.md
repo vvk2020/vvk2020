@@ -38,8 +38,8 @@
 ### 📊 GitHub статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ваш_username&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_username&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vvk2020&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvk2020&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
 
 ---
