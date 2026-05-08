@@ -37,11 +37,7 @@
 
 ### 📊 GitHub статистика
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vvk2020&theme=dark&title=-Followers,-Issues)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=vvk2020&theme=dark&column=-1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vvk2020&theme=dark&no-bg=true&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
