@@ -52,5 +52,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ваш_username&color=blue&style=flat-square" alt="счетчик просмотров" />
+  <img src="https://komarev.com/ghpvc/?username=vvk2020&color=blue&style=flat-square" alt="счетчик просмотров" />
 </p>
