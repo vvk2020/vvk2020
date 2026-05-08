@@ -35,18 +35,7 @@
 
 ---
 
-### 📫 Как со мной связаться
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vvsmith)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev78vk@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=vvk2020&label=Profile%20Views&countColor=%23263759" alt="счетчик просмотров" />
-</p>
-
-## 📊 GitHub Stats
+### 📊 GitHub статистика
 
 ### Profile Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vvk2020&show_icons=true&theme=radical)
@@ -59,3 +48,17 @@
 
 ### Trophies
 ![Trophy](https://github-profile-trophy.vercel.app/?username=vvk2020&theme=dark)
+
+
+---
+
+### 📫 Как со мной связаться
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vvsmith)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev78vk@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=vvk2020&label=Profile%20Views&countColor=%23263759" alt="счетчик просмотров" />
+</p>
