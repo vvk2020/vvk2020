@@ -51,3 +51,12 @@
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=vvk2020&label=Profile%20Views&countColor=%23263759" alt="счетчик просмотров" />
 </p>
+
+table td img {
+  vertical-align: middle;
+}
+
+/* Или для всей ячейки */
+table td {
+  vertical-align: middle;
+}
