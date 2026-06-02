@@ -35,12 +35,6 @@
 
 ---
 
-### 📊 Статистика
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vvk2020&theme=dark&column=-1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### 📫 Как со мной связаться
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vvsmith)
